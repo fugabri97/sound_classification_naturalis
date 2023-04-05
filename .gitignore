@@ -1,0 +1,5 @@
+﻿neural_network/datasets
+web_service/utils/__pycache__
+web_service/model/__pycache__
+*.h5
+web_service/model/model.json
